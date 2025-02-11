@@ -1,1 +1,1 @@
-# TanyoLog.
+# TanyoLog
