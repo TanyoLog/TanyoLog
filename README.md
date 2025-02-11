@@ -1,7 +1,11 @@
 # 📦 Dịch Vụ Forwarder - TanyoLog
 
+![TanyoLog Logo](https://example.com/logo.png)
+
 ## 🚀 Giới thiệu
 TanyoLog cung cấp dịch vụ **Freight Forwarding** chuyên nghiệp, giúp doanh nghiệp vận chuyển hàng hóa quốc tế một cách nhanh chóng và hiệu quả. Chúng tôi đóng vai trò trung gian, kết nối với các hãng tàu, hàng không và đơn vị vận tải để tối ưu hóa lộ trình hàng hóa.
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## 🌟 Dịch Vụ Chính
 ### 1️⃣ **Vận chuyển quốc tế**
@@ -23,6 +27,13 @@ TanyoLog cung cấp dịch vụ **Freight Forwarding** chuyên nghiệp, giúp d
 - Cung cấp bảo hiểm hàng hóa quốc tế.
 - Tư vấn và tối ưu hóa chi phí logistics.
 - Hỗ trợ tài chính & thanh toán quốc tế.
+
+## 🔧 Hướng dẫn sử dụng dịch vụ
+1. **Liên hệ với chúng tôi** qua email hoặc website.
+2. **Cung cấp thông tin lô hàng**, bao gồm điểm đi, điểm đến, loại hàng hóa.
+3. Chúng tôi sẽ **gửi báo giá & lịch trình vận chuyển**.
+4. Sau khi xác nhận, chúng tôi sẽ **xử lý vận chuyển & theo dõi hàng hóa**.
+5. Bạn có thể **kiểm tra trạng thái vận chuyển** qua hệ thống tracking của chúng tôi.
 
 ## 📞 Liên hệ
 - 📧 Email: support@tanyolog.com
